@@ -1,0 +1,8 @@
+torch==2.5.1
+opencv==4.10.0.84
+numpy==1.26.4
+pillow
+torchvision==0.20.1
+streamlit
+timm
+Dataset -  Celeb-DF-v2 - https://github.com/yuezunli/celeb-deepfakeforensics
